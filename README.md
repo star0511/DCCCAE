@@ -10,6 +10,6 @@ Code in sigver-master is used to extract deep features
 Code in multiview is used to mix deep and manual features and perform offline handwritten signature authentication
 
 # License
-The source code is released under the BSD 3-clause license. Note that the trained models used the GPDS dataset for training, which is restricted for non-commercial use.
+The source code is released under the BSD 3-clause license.
 
 Please do not contact me requesting access to any particular dataset. These requests should be addressed directly to the groups that collected them.
